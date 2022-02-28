@@ -5,4 +5,6 @@ With the Help of this code you are able to transmitt JSON data beteween ESP boar
 
 This is completly bidirectional.
 
+#examples folder consist of Two Arduino codes each for RX and TX.
+
 
